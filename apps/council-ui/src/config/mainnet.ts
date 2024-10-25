@@ -231,6 +231,24 @@ export const mainnetCouncilConfig: CouncilConfig = {
         paragraphSummary:
           "This proposal includes the payment details for the following service provisions as described in Milestone 1: The Deployment of Element DAO Instance of Hyperdrive (and Pools) to Ethereum Mainnet - DELV developed, deployed, and launched an Element DAO instance of Hyperdrive with 6-month pools on top of stETH and sDAI on Ethereum Mainnet.",
       },
+      20: {
+        targets: [],
+        calldatas: [],
+        title: "EGP-33: On-Chain and Snapshot Quorum Raise Proposal",
+        sentenceSummary:
+          "This proposal is to raise the On-Chain and Snapshot quorum from 1.1m voting power to 2.77m voting power.",
+        paragraphSummary:
+          "https://commonwealth.im/element-finance/discussion/25041",
+      },
+      21: {
+        targets: [],
+        calldatas: [],
+        title: "EGP-36: DELV Payment for Milestone 2 of EGP-30",
+        sentenceSummary:
+          "EGP-36 proposes the details for the Element DAO paying DELV as a service provider for Milestone 2 of EPG-30.",
+        paragraphSummary:
+          "https://commonwealth.im/element-finance/discussion/25059",
+      },
     },
   },
   gscVoting: {
