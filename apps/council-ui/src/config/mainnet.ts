@@ -249,6 +249,15 @@ export const mainnetCouncilConfig: CouncilConfig = {
         paragraphSummary:
           "https://commonwealth.im/element-finance/discussion/25059",
       },
+      22: {
+        targets: [],
+        calldatas: [],
+        title:
+          "EGP-37: Payment Proposal for Yield Sources Onboarding & Deployment to Other Chains and L2s (for EGP-34)",
+        sentenceSummary:
+          "EGP-37 proposes the details for the Element DAO paying DELV as a service provider for the 90 days of yield source onboarding and deployments to other chains and L2s performed pursuant to EGP-34.",
+        paragraphSummary: "https://forum.element.fi/discussion/25920",
+      },
     },
   },
   gscVoting: {
